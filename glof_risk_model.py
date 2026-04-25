@@ -6,7 +6,7 @@ GLOF Risk Prediction Script
 - Trains a Random Forest classifier on 2023–24 labels
 - Predicts GLOF risk levels for 2024–25 data
 
-Author: Mirthesh M
+Author: Saran P
 """
 
 import pandas as pd

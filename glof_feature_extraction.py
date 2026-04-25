@@ -6,7 +6,7 @@ Extracts geospatial features from Landsat 8 and DEM data for GLOF risk modeling:
 - Elevation, Slope, Aspect
 - Distance to Glacier
 
-Author: Mirthesh M
+Author: Saran P
 """
 
 import rasterio

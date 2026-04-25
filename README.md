@@ -71,7 +71,7 @@ This project focuses on satellite and topographic data specific to the **South L
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/GLOF-Risk-System.git
+git clone https://github.com/saran-0077/GLOF-risk-system/tree/main/data
 cd GLOF-Risk-System
 ```
 
@@ -125,11 +125,12 @@ python glof_risk_visualization.py
 
 ## 👤 Author
 
-**Mirthesh M**  
+**Saran P**  
 🎓 B.E. Artificial Intelligence and Machine Learning  
 🏫 Kings Engineering College  
-📧 [mirtheshmurugaiah1105@gmail.com](mailto:mirtheshmurugaiah1105@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mirthesh-m-083971294) | [GitHub](https://github.com/mirthesh1105)
+📧 [8012akashf@gmail.com](mailto:8012akshf@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/saran-p-361036358) 
+   [GitHub](https://github.com/saran-0077/GLOF-risk-system/tree/main/data) 
 
 ---
 
@@ -147,7 +148,7 @@ This project currently has **no license**. As a result, all rights are reserved 
 
 If you'd like to use or adapt this work for academic, research, or commercial purposes, **please contact the author** for permission.
 
-📧 [mirtheshmurugaiah1105@gmail.com](mailto:mirtheshmurugaiah1105@gmail.com)
+📧 [8012akashf@gmail.com](mailto:8012akashf@gmail.com)
 
 
 ---
@@ -158,10 +159,10 @@ If you use this work in your research, please cite it as:
 
 ```bibtex
 @misc{mirthesh2025glof,
-  author       = {Mirthesh M},
+  author       = {Saran p},
   title        = {GLOF Risk Prediction and Visualization System},
   year         = {2025},
-  url          = {https://github.com/mirthesh1105/GLOF-Risk-System},
+  url          = {https://github.com/saran-0077/GLOF-risk-system/tree/main/data},
   note         = {A geospatial machine learning pipeline for detecting and visualizing glacial lake outburst flood (GLOF) risks using Landsat, DEM, and Random Forest classification.}
 }
 ```

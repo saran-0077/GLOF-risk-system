@@ -5,7 +5,7 @@ Fetch Landsat and DEM Data Script
 - Downloads Landsat 8 satellite images for specified region and date range
 - Exports image to Google Drive for further processing
 
-Author: Mirthesh M
+Author: Saran P
 """
 
 import ee

@@ -1,7 +1,7 @@
 """
 GLOF Risk Visualization with Elevation Contours (2024–25)
 
-Author: Mirthesh M
+Author: Saran P
 Affiliation: B.E. AIML, Kings Engineering College
 Project: GLOF Risk Prediction using ML (Landsat-8 + SRTM DEM)
 
@@ -14,8 +14,8 @@ Description:
 Output:
 - Heatmap showing Safe, Moderate, High Risk zones with elevation overlays.
 
-GitHub: https://github.com/mirthesh1105
-LinkedIn: www.linkedin.com/in/mirthesh-m-083971294
+GitHub: https://github.com/saran-0077/GLOF-risk-system/tree/main/data
+LinkedIn: www.linkedin.com/in/saran-p-361036358
 """
 
 import numpy as np
