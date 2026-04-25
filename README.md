@@ -129,7 +129,7 @@ python glof_risk_visualization.py
 🎓 B.E. Artificial Intelligence and Machine Learning  
 🏫 Kings Engineering College  
 📧 [8012akashf@gmail.com](mailto:8012akshf@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/saran-p-361036358) 
+🔗 [LinkedIn](www.linkedin.com/in/saran8) 
    [GitHub](https://github.com/saran-0077/GLOF-risk-system/tree/main/data) 
 
 ---

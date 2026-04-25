@@ -15,7 +15,7 @@ Output:
 - Heatmap showing Safe, Moderate, High Risk zones with elevation overlays.
 
 GitHub: https://github.com/saran-0077/GLOF-risk-system/tree/main/data
-LinkedIn: www.linkedin.com/in/saran-p-361036358
+LinkedIn: www.linkedin.com/in/saran8
 """
 
 import numpy as np
